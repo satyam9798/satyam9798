@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Shivam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Angular Project**
+- 🔭 I’m currently working on **Angular React and Springboot Project**
 
 - 👯 I’m looking to collaborate on **Angular, React**
 
