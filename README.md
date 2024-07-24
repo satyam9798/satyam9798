@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyam9798](https://github.com/satyam9798)
 
-- 💬 Ask me about **React, Angular, Frontend**
+- 💬 Ask me about **React, Angular, React Native, Springboot, Cassandra, PostgreSQL, MongoDB, Node, Express**
 
 - 📫 How to reach me **satyamshivam9798@gmail.com**
 
