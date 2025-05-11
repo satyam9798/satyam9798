@@ -136,3 +136,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
+
+### My Github Stats 📊
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
