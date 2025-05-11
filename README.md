@@ -8,7 +8,7 @@
 ## 🧾 Summary  
 ---
 
-Software Developer with experience in building scalable and efficient backend services using **Spring Boot** and **Node.js**.  
+Software Developer with experience in building scalable and efficient backend services using &nbsp; **Spring Boot** &nbsp; and &nbsp; **Node.js** &nbsp;.  
 Proficient in database management, working with **MySQL**, **PostgreSQL**, **MongoDB**, and **Cassandra** for optimized data storage and retrieval.
 
 Skilled in frontend development with expertise in **JavaScript**, **TypeScript**, **HTML**, **CSS**, **React**, **Angular**, **AngularJS**, **Next.js**, and **Nest.js**, creating responsive and interactive user interfaces.
@@ -138,5 +138,6 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 </p>
 
 ### My Github Stats 📊
+[![](https://raw.githubusercontent.com/satyam9798/satyam9798/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
