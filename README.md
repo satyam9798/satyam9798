@@ -38,7 +38,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 `Git` &nbsp;|&nbsp; `JIRA` &nbsp;|&nbsp; `Confluence`
 
 ### Architecture  
-`Microservices` &nbsp;|&nbsp; `Distributed Systems` &nbsp;|&nbsp; `Full-Stack Development` &nbsp;|&nbsp; `IDaaS`
+`Microservices` &nbsp;|&nbsp; `Distributed Systems` &nbsp;|&nbsp; `Event-Driven ` &nbsp;|&nbsp; `Serverless` &nbsp;|&nbsp; `Event-Driven ` &nbsp;|&nbsp; `Full-Stack Monolithic` &nbsp;|&nbsp; `API-First / Headless ` &nbsp;|&nbsp; ` Identity-Driven(IDaaS)` &nbsp;|
 
 - 📫 How to reach me **mailtosatyamshivam@gmail.com**
 
