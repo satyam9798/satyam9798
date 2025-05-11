@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Shivam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Angular React and Springboot Project**
-
-- 👯 I’m looking to collaborate on **Angular, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/satyam9798](https://github.com/satyam9798)
-
-- 💬 Ask me about **React, Angular, React Native, Springboot, Cassandra, PostgreSQL, MongoDB, Node, Express**
-
-- 📫 How to reach me **satyamshivam9798@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -38,7 +28,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 `Java` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Python`
 
 ### Frameworks & Libraries  
-`Node.js` &nbsp;|&nbsp; `Express` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `AngularJS`  
+&nbsp; `Springboot`|&nbsp; `Node.js` &nbsp;|&nbsp; `Express` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `AngularJS`  
 `WebSockets` &nbsp;|&nbsp; `OIDC` &nbsp;|&nbsp; `Redux` &nbsp;|&nbsp; `jQuery` &nbsp;|&nbsp; `AJAX`  
 `HTML` &nbsp;|&nbsp; `CSS`
 
@@ -46,7 +36,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 `PostgreSQL` &nbsp;|&nbsp; `MySQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `Cassandra`
 
 ### Cloud & DevOps  
-`AWS` &nbsp;|&nbsp; `Azure` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kubernetes`
+`GCP` &nbsp;|&nbsp; `Terraform` &nbsp;|&nbsp; `AWS` &nbsp;|&nbsp; `Azure` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kubernetes`
 
 ### Version Control & Tools  
 `Git` &nbsp;|&nbsp; `JIRA` &nbsp;|&nbsp; `Confluence`
@@ -54,6 +44,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 ### Architecture  
 `Microservices` &nbsp;|&nbsp; `Distributed Systems` &nbsp;|&nbsp; `Full-Stack Development` &nbsp;|&nbsp; `IDaaS`
 
+- 📫 How to reach me **mailtosatyamshivam@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
