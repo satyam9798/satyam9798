@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyam Shivam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyam Shivam</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 🧾 Summary  
 ---
@@ -129,6 +125,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
  </a> 
+<img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> 
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
  </a> 
@@ -141,7 +138,8 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 
 [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-github-summary-card/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
