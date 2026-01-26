@@ -144,4 +144,5 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
