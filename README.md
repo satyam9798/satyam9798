@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyam Shivam</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyam Shivam</h1>
+<h3 align="center">A passionate software developer from India</h3> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Satyam+Shivam.+;A+full+stack+developer+based+in+India)](https://git.io/typing-svg)
 
 ## 🧾 Summary  
 ---
