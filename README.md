@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Satyam+Shivam.+;Full+stack+developer+based+in+India)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
----
+
 
 ## 🧾 Summary  
 ---
@@ -43,6 +43,10 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 
 ### Architecture  
 `Microservices` &nbsp;|&nbsp; `Distributed Systems` &nbsp;|&nbsp; `Event-Driven ` &nbsp;|&nbsp; `Serverless` &nbsp;|&nbsp; `Event-Driven ` &nbsp;|&nbsp; `Full-Stack Monolithic` &nbsp;|&nbsp; `API-First / Headless ` &nbsp;|&nbsp; ` Identity-Driven(IDaaS)` &nbsp;|
+
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
 
 - 📫 How to reach me **mailtosatyamshivam@gmail.com**
 
