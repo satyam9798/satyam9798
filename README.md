@@ -51,8 +51,6 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 - 📫 How to reach me **mailtosatyamshivam@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
 
 <p align="left">
  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -174,16 +172,14 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 </div>
 <br><br>
 
-
 [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=satyam9798&theme=dark)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
