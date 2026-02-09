@@ -51,6 +51,9 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 - 📫 How to reach me **mailtosatyamshivam@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+
 <p align="left">
  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -144,11 +147,6 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 
 ### My Github Stats 📊 
 
-
-[![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
-[![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -175,6 +173,12 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br><br>
+
+
+[![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/satyam9798/satyam-stats-github/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
